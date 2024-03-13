@@ -7,7 +7,11 @@
   </div>
 </table>
 </td>
-<td><table><a href="https://drive.google.com/file/d/1onQ3UHTNGf5VhoSXi01zaIJkOQjomZz0/view?usp=sharing"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRhYThoMmtkdGdqeHFqajRob2I4N3QzZWtjdHhyNTgzM3Ria2N4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rVZYvzv5ZjOCHFXvni/giphy.gif" /></a>
+<td><table>
+      <div align="center">
+       <a href="https://drive.google.com/file/d/1onQ3UHTNGf5VhoSXi01zaIJkOQjomZz0/view?usp=sharing"> <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRhYThoMmtkdGdqeHFqajRob2I4N3QzZWtjdHhyNTgzM3Ria2N4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rVZYvzv5ZjOCHFXvni/giphy.gif"  />
+      </div>
+
 </table></td>
 </tr>
 </table>

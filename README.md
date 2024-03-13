@@ -9,7 +9,7 @@
 </td>
 <td><table>
 <div align="center">
-  <img height="200" src="https://www.clipartmax.com/middle/m2H7G6i8N4G6H7N4_cv-png-curriculum-vitae-logo-png/"  />
+  <img src="https://www.clipartmax.com/png/middle/316-3160554_cv-png-curriculum-vitae-logo-png.png" alt="Cv Png - Curriculum Vitae Logo Png@clipartmax.com">
   </div>
 </table></td>
 </tr>

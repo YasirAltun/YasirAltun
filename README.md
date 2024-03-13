@@ -8,10 +8,9 @@
 </table>
 </td>
 <td><table>
-      <div align="center">
-       <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRhYThoMmtkdGdqeHFqajRob2I4N3QzZWtjdHhyNTgzM3Ria2N4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rVZYvzv5ZjOCHFXvni/giphy.gif"  />
-      </div>
-
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN2a2U5YXNvc2o2dHZ1ZmMzbmNnNjF1OHIwdnZkeGxxZWNhenFyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif"  />
+  </div>
 </table></td>
 </tr>
 </table>

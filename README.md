@@ -28,7 +28,7 @@
   <img alt="snake" src="https://raw.githubusercontent.com/YasirAltun/YasirAltun/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-###
+
 <table>
 <tr>
 <td><table width="50%" border="0">
@@ -49,11 +49,6 @@
 </tr>
 </table>
 
-###
-
-
-
-###
 
 
 <br clear="both">
@@ -67,11 +62,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cybersurgeon" /></a></p><br><br>
-###
-###
-###
-
-
-###
-
 

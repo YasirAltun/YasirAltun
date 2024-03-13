@@ -3,14 +3,14 @@
 <tr>
 <td><table>
   <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN2a2U5YXNvc2o2dHZ1ZmMzbmNnNjF1OHIwdnZkeGxxZWNhenFyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif"  />
+  <img height="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN2a2U5YXNvc2o2dHZ1ZmMzbmNnNjF1OHIwdnZkeGxxZWNhenFyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif"  />
   </div>
 </table>
 </td>
 <td><table>
   
 <div align="center">
-  <a  href="https://drive.google.com/file/d/1onQ3UHTNGf5VhoSXi01zaIJkOQjomZz0/view?usp=sharing" ><img height="200" src="https://eschool.rw/cv/images/cv2.gif"  /></a>
+  <a  href="https://drive.google.com/file/d/1onQ3UHTNGf5VhoSXi01zaIJkOQjomZz0/view?usp=sharing" ><img height="" src="https://eschool.rw/cv/images/cv2.gif"  /></a>
 </div>
 
 

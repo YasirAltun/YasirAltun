@@ -9,7 +9,7 @@
 </td>
 <td><table>
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN2a2U5YXNvc2o2dHZ1ZmMzbmNnNjF1OHIwdnZkeGxxZWNhenFyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif"  />
+  <img height="200" src="https://www.clipartmax.com/middle/m2H7G6i8N4G6H7N4_cv-png-curriculum-vitae-logo-png/"  />
   </div>
 </table></td>
 </tr>

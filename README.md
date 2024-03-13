@@ -5,7 +5,9 @@
 <h1 align="center">Hi 👋, I'm Yasir Altun</h1>
 <h3 align="center">I am a student at Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
 
-![Snake animation](https://github.com/YasirAltun/YasirAltun/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Thesuspie/Thesuspie/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ###
 <table>

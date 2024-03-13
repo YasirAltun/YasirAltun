@@ -8,7 +8,10 @@
 </table>
 </td>
 <td><table>
+  
 <div align="center">
+  <img href="https://drive.google.com/file/d/1onQ3UHTNGf5VhoSXi01zaIJkOQjomZz0/view?usp=sharing" height="200" src="https://eschool.rw/cv/images/cv2.gif"  />
+</div>
 
 
 </div>
@@ -17,10 +20,7 @@
 </table>
 
 
- <div align="center">
-  <img height="200" src="https://eschool.rw/cv/images/cv2.gif"  />
-</div>
-
+ 
 <h1 align="center">Hi 👋, I'm Yasir Altun</h1>
 <h3 align="center">I am a student at Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
 

@@ -1,6 +1,14 @@
-https://i.gifer.com/3HeZ.gif
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <h1 align="center">Hi 👋, I'm Yasir Altun</h1>
 <h3 align="center">I am a student at Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasiraltun" alt="yasiraltun" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasiraltun&show_icons=true&locale=en&layout=compact" alt="yasiraltun" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasiraltun&show_icons=true&locale=en" alt="yasiraltun" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasiraltun&" alt="yasiraltun" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +28,4 @@ https://i.gifer.com/3HeZ.gif
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cybersurgeon" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasiraltun&show_icons=true&locale=en&layout=compact" alt="yasiraltun" /></p>
+

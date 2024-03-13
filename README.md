@@ -2,6 +2,10 @@
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN2a2U5YXNvc2o2dHZ1ZmMzbmNnNjF1OHIwdnZkeGxxZWNhenFyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif"  />
 </div>
 
+<h1 align="center">Hi 👋, I'm Yasir Altun</h1>
+<h3 align="center">I am a student at Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
+
+
 ###
 
 

@@ -13,8 +13,6 @@
   <a  href="https://drive.google.com/file/d/1onQ3UHTNGf5VhoSXi01zaIJkOQjomZz0/view?usp=sharing" ><img height="300" src="https://eschool.rw/cv/images/cv2.gif"  /></a>
 </div>
 
-
-</div>
 </table></td>
 </tr>
 </table>
@@ -24,8 +22,11 @@
 <h1 align="center">Hi 👋, I'm Yasir Altun</h1>
 <h3 align="center">I am a student at Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cybersurgeon" /></a></p><br><br>
+
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Thesuspie/Thesuspie/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/YasirAltun/YasirAltun/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ###
@@ -72,5 +73,4 @@
 
 ###
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cybersurgeon" /></a></p><br><br>
+

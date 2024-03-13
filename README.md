@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text]()
 <h1 align="center">Hi 👋, I'm Yasir Altun</h1>
 <h3 align="center">I am a student at Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
 

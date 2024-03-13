@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Yasir Altun</h1>
 <h3 align="center">I am a student at Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasiraltun" alt="yasiraltun" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasiraltun" alt="yasiraltun" /></a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasiraltun&show_icons=true&locale=en&layout=compact" alt="yasiraltun" /></p>
+<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasiraltun&show_icons=true&locale=en&layout=compact" alt="yasiraltun" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasiraltun&show_icons=true&locale=en" alt="yasiraltun" /></p>
+<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasiraltun&show_icons=true&locale=en" alt="yasiraltun" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasiraltun&" alt="yasiraltun" /></p>
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasiraltun&" alt="yasiraltun" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

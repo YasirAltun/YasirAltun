@@ -2,14 +2,14 @@
 <table>
 <tr>
 <td><table>
-  <div align="center">
+  <div align="left">
   <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN2a2U5YXNvc2o2dHZ1ZmMzbmNnNjF1OHIwdnZkeGxxZWNhenFyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif"  />
   </div>
 </table>
 </td>
 <td><table>
   
-<div align="center">
+<div align="right">
   <a  href="https://drive.google.com/file/d/1PyppUF0gybUp2U1WDYFIfd5sI4p86LrX/view?usp=sharing" > <img height="300" src="https://eschool.rw/cv/images/cv2.gif"  /></a>
 </div>
 

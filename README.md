@@ -5,6 +5,7 @@
 <h1 align="center">Hi 👋, I'm Yasir Altun</h1>
 <h3 align="center">I am a student at Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
 
+![snake gif](https://github.com/YasirAltun/YasirAltun/blob/output/github-contribution-grid-snake.gif)
 
 ###
 <table>

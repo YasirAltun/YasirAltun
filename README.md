@@ -22,8 +22,7 @@
 <h1 align="center">Hi 👋, I'm Yasir Altun</h1>
 <h3 align="center">I am a student at Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cybersurgeon" /></a></p><br><br>
+
 
 <div align="center">
   <img alt="snake" src="https://raw.githubusercontent.com/YasirAltun/YasirAltun/output/github-contribution-grid-snake-dark.svg" />
@@ -66,6 +65,8 @@
   <img src="https://github-profile-trophy.vercel.app?username=YasirAltun&theme=dracula&column=9&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cybersurgeon" /></a></p><br><br>
 ###
 ###
 ###

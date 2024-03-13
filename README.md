@@ -9,15 +9,16 @@
 </td>
 <td><table>
 <div align="center">
-  <img src="https://www.clipartmax.com/png/middle/316-3160554_cv-png-curriculum-vitae-logo-png.png" alt="Cv Png - Curriculum Vitae Logo Png@clipartmax.com">
-  </div>
+
+
+</div>
 </table></td>
 </tr>
 </table>
 
 
  <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN2a2U5YXNvc2o2dHZ1ZmMzbmNnNjF1OHIwdnZkeGxxZWNhenFyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif"  />
+  <img height="200" src="https://eschool.rw/cv/images/cv2.gif"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Yasir Altun</h1>

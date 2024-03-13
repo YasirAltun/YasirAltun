@@ -10,7 +10,7 @@
 <td><table>
   
 <div align="center">
-  <a  href="https://drive.google.com/file/d/1PyppUF0gybUp2U1WDYFIfd5sI4p86LrX/view?usp=sharing" ><img height="300" src="https://eschool.rw/cv/images/cv2.gif"  /></a>
+  <a  href="https://drive.google.com/file/d/1PyppUF0gybUp2U1WDYFIfd5sI4p86LrX/view?usp=sharing" > <img height="300" src="https://eschool.rw/cv/images/cv2.gif"  /></a>
 </div>
 
 </table></td>

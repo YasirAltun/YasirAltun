@@ -19,6 +19,18 @@
 
 </table>
 </td>
+
+<td><table>
+  
+<div align="center">
+
+ ![Project Name (1)](https://github.com/YasirAltun/YasirAltun/assets/75855527/b594993a-d6ec-4f78-a8f1-1d00231ea697)
+
+
+</div>
+
+</table></td>
+
 <td><table>
   
 <div align="right">

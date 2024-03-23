@@ -22,7 +22,7 @@
 <td><table>
   
 <div align="right">
-  <a  href="https://drive.google.com/file/d/1PyppUF0gybUp2U1WDYFIfd5sI4p86LrX/view?usp=sharing" > <img height="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZneXVxYm9wbGNocmFvdnpsZHFydmVoZWVrejJrdWJ3ZnlsNHZldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w1OtkLv9bN0sT7xYVb/source.gif"  /></a>
+  <a  href="https://drive.google.com/file/d/1PyppUF0gybUp2U1WDYFIfd5sI4p86LrX/view?usp=sharing" > <img height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZneXVxYm9wbGNocmFvdnpsZHFydmVoZWVrejJrdWJ3ZnlsNHZldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w1OtkLv9bN0sT7xYVb/source.gif"  /></a>
 </div>
 
 </table></td>

@@ -1,4 +1,4 @@
-<!--
+
 
 
 
@@ -6,30 +6,28 @@
 <table>
 <tr>
 <td><table>
-  <div align="left">
-  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTN2a2U5YXNvc2o2dHZ1ZmMzbmNnNjF1OHIwdnZkeGxxZWNhenFyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif"  />
-  </div>
+ &nbsp;<div align="center">
+  [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Ayasiraltun)
+</div>
 </table>
 </td>
 <td><table>
   
-
+<div align="center">
+  <a  href="https://drive.google.com/file/d/1PyppUF0gybUp2U1WDYFIfd5sI4p86LrX/view?usp=sharing" > <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZneXVxYm9wbGNocmFvdnpsZHFydmVoZWVrejJrdWJ3ZnlsNHZldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w1OtkLv9bN0sT7xYVb/source.gif"  /></a>
+</div>
 
 </table></td>
 </tr>
 </table>
--->
 
-<div align="center">
-  <a  href="https://drive.google.com/file/d/1PyppUF0gybUp2U1WDYFIfd5sI4p86LrX/view?usp=sharing" > <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZneXVxYm9wbGNocmFvdnpsZHFydmVoZWVrejJrdWJ3ZnlsNHZldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w1OtkLv9bN0sT7xYVb/source.gif"  /></a>
-</div>
+
+
  
 <h1 align="center">Hi 👋, I'm Yasir Altun</h1>
 <h3 align="center">I am a student at Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Ayasiraltun)
-</div>
+
 
 
 <div align="center">

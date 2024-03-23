@@ -15,9 +15,19 @@
 </table>
 </td>
 -->
+
 <td><table>
   
+<div align="right">
+  <a> <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d5N3c2Zm5hYjJhaDh5N2d4Z29tdjc0bTFkZXFoeHAzMWM0bmFnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IlYGtI4lNfOhKteiGC/giphy.gif"  /></a>
+</div>
 
+</table></td>
+
+ 
+<td><table>
+  
+<h3 align="left">Listen With Me🎼🎸🎹:</h3>
  
  &nbsp;<div align="left">
   [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Ayasiraltun)
@@ -35,6 +45,10 @@
 </div>
 
 </table></td>
+
+
+
+
 </tr>
 </table>
 

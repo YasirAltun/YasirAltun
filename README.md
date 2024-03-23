@@ -14,7 +14,7 @@
 <td><table>
   
 <div align="right">
-  <a> <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d5N3c2Zm5hYjJhaDh5N2d4Z29tdjc0bTFkZXFoeHAzMWM0bmFnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IlYGtI4lNfOhKteiGC/giphy.gif"  /></a>
+  <a> <img height="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d5N3c2Zm5hYjJhaDh5N2d4Z29tdjc0bTFkZXFoeHAzMWM0bmFnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IlYGtI4lNfOhKteiGC/giphy.gif"  /></a>
 </div>
 
 </table></td>
@@ -22,7 +22,7 @@
 <td><table>
   
 <div align="right">
-  <a  href="https://drive.google.com/file/d/1PyppUF0gybUp2U1WDYFIfd5sI4p86LrX/view?usp=sharing" > <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZneXVxYm9wbGNocmFvdnpsZHFydmVoZWVrejJrdWJ3ZnlsNHZldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w1OtkLv9bN0sT7xYVb/source.gif"  /></a>
+  <a  href="https://drive.google.com/file/d/1PyppUF0gybUp2U1WDYFIfd5sI4p86LrX/view?usp=sharing" > <img height="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZneXVxYm9wbGNocmFvdnpsZHFydmVoZWVrejJrdWJ3ZnlsNHZldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w1OtkLv9bN0sT7xYVb/source.gif"  /></a>
 </div>
 
 </table></td>

@@ -1,9 +1,4 @@
 
-
-![Project Name (1)](https://github.com/YasirAltun/YasirAltun/assets/75855527/b57cc86c-b8db-45ee-b838-a1e7aa04dbb0)
-
-
- 
 <h1 align="center">Hi 👋, I'm Yasir Altun</h1>
 <h3 align="center">I am a student at Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
 
@@ -24,20 +19,6 @@
 
 </table></td>
 
- 
-<td><table>
-  
-<h3 align="left">Listen With Me🎼🎸🎹:</h3>
- 
- &nbsp;<div align="left">
-  [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Ayasiraltun)
-</div>
-
-
-</div>
-
-</table></td>
-
 <td><table>
   
 <div align="right">
@@ -46,13 +27,14 @@
 
 </table></td>
 
-
-
-
 </tr>
 </table>
 
-
+<h3 align="left">Listen With Me🎼🎸🎹:</h3>
+ 
+ &nbsp;<div align="left">
+  [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Ayasiraltun)
+</div>
 
 
 <div align="center">

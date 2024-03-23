@@ -13,18 +13,19 @@
 <tr>
 <td><table>
  
- &nbsp;<div align="left">
-  [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Ayasiraltun)
-</div>
+ ![Project Name (1)](https://github.com/YasirAltun/YasirAltun/assets/75855527/b594993a-d6ec-4f78-a8f1-1d00231ea697)
+
 
 </table>
 </td>
 
 <td><table>
   
-<div align="center">
 
- ![Project Name (1)](https://github.com/YasirAltun/YasirAltun/assets/75855527/b594993a-d6ec-4f78-a8f1-1d00231ea697)
+ 
+ &nbsp;<div align="left">
+  [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Ayasiraltun)
+</div>
 
 
 </div>

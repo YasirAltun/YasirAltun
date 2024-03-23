@@ -3,7 +3,7 @@
 
 
 
- ![Project Name (1)](https://github.com/YasirAltun/YasirAltun/assets/75855527/b594993a-d6ec-4f78-a8f1-1d00231ea697)
+![Project Name (1)](https://github.com/YasirAltun/YasirAltun/assets/75855527/b57cc86c-b8db-45ee-b838-a1e7aa04dbb0)
 
 
  

@@ -1,9 +1,5 @@
 
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdxeWdwOXRjd2c1ZnNsN3MxbTExajI1YnJ0YjVmbW4wcjV6cXI4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IlYGtI4lNfOhKteiGC/giphy.gif)
-
-
-
 ![Project Name (1)](https://github.com/YasirAltun/YasirAltun/assets/75855527/b57cc86c-b8db-45ee-b838-a1e7aa04dbb0)
 
 

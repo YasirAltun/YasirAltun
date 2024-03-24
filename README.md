@@ -4,14 +4,6 @@
 
 <table>
 <tr>
-<!--
-<td>
-<table>
-  https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VrdmdobnhiYXZoempucHphaDZpdHR6MjBnZG5lODAyYTE1cXE5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xgg0PkTao7Yy8HOElW/giphy.gif
-</table>
-</td>
-  https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png
--->
 
 <td><table>
   

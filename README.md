@@ -32,6 +32,7 @@
 </tr>
 </table>
 
+
 <table>
   <tr>
     <td><h1 align="left">Listen With Me🎼🎸🎹:</h1>
@@ -48,8 +49,6 @@
   ![1_HsdwLXBm8Yjz1rRCkcaQoQ](https://github.com/YasirAltun/YasirAltun/assets/75855527/7de9a634-e868-45ed-b003-ac35611dc5af)
   -->
 
-
-  
   <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/bc059c7a497938074d7a618ed1d68354.png"  height="200" width="200"  alt="cybersurgeon" /></a>
 </p><br><br></td>
   </tr>
@@ -96,6 +95,25 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YasirAltun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="145" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YasirAltun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true&order=2" height="144" alt="languages graph"  />
+
+
+
+
+
+<table>
+  <tr>
+    <td>cell1_1</td>
+    <td><table>
+  <tr>
+    <td>cell1_1</td>
+    <td>cell2_1</td>
+  </tr>
+</table></td>
+  </tr>
+</table>
+
+
+  
   <img src="https://streak-stats.demolab.com?user=YasirAltun&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=18&date_format=j/n%5B/Y%5D&order=3" height="145" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=YasirAltun&theme=dracula&column=9&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>

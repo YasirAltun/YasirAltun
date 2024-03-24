@@ -50,7 +50,7 @@
 
 
   
-  <a align="center" href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/bc059c7a497938074d7a618ed1d68354.png"  height="300" width="300"  alt="cybersurgeon" /></a>
+  <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/bc059c7a497938074d7a618ed1d68354.png"  height="200" width="200"  alt="cybersurgeon" /></a>
 </p><br><br></td>
   </tr>
 </table>

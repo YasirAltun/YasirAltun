@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Yasir Altun</h1>
+<h1 align="center">Hi 👋, I'm Abdurrahman Yasir Altun</h1>
 <h3 align="center">I am a student at Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
 
 <table>

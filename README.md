@@ -30,13 +30,13 @@
 </tr>
 </table>
 
-<h3 align="left">Listen With Me🎼🎸🎹:</h3>
+<h1 align="left">Listen With Me🎼🎸🎹:</h1>
  
  &nbsp;<div align="left">
   [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Ayasiraltun)
 </div>
 
-
+<h1 align="left">😱😱😱 Snake eating my contributions 😱😱😱 </h1>
 <div align="center">
   <img alt="snake" src="https://raw.githubusercontent.com/YasirAltun/YasirAltun/output/github-contribution-grid-snake-dark.svg" />
 </div>

@@ -42,6 +42,8 @@
 </div>
 </td>
     <td><h2 align="right">Click on the button below to support 😁😁:</h2>
+ <tr>
+    <td>
 <p>
   <!--
 <a href="https://www.buymeacoffee.com/CyberSurgeon"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffe ?&emoji=☕&slug=CyberSurgeon&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
@@ -51,6 +53,18 @@
 
   <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/bc059c7a497938074d7a618ed1d68354.png"  height="200" width="200"  alt="cybersurgeon" /></a>
 </p><br><br></td>
+      
+    <td><p>
+ 
+
+  <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/3c8cbe3200835c2be145a8bd6697e609.png"  height="200" width="200"  alt="cybersurgeon" /></a>
+</p><br><br> </td>
+    
+  </tr>
+      
+      
+      
+    </td>
   </tr>
 </table>
 

@@ -50,7 +50,7 @@
 
 
   
-  <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="![1_HsdwLXBm8Yjz1rRCkcaQoQ](https://github.com/YasirAltun/YasirAltun/assets/75855527/7de9a634-e868-45ed-b003-ac35611dc5af)" height="50" width="210" alt="cybersurgeon" /></a>
+  <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgur.com/a/3Whg4WO" height="50" width="210" alt="cybersurgeon" /></a>
 </p><br><br></td>
   </tr>
 </table>

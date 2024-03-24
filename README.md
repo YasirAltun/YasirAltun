@@ -41,7 +41,7 @@
 </div>
 </td>
     <td><h2 align="right">Click button  belov for give some coffe money  😁😁:</h2>
-<p><a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="  https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VrdmdobnhiYXZoempucHphaDZpdHR6MjBnZG5lODAyYTE1cXE5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xgg0PkTao7Yy8HOElW/giphy.gif" height="50" width="210" alt="cybersurgeon" /></a></p><br><br></td>
+<p><a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cybersurgeon" /></a></p><br><br></td>
   </tr>
 </table>
 

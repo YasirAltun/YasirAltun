@@ -35,7 +35,7 @@
     <td><h1 align="left">Listen With Me🎼🎸🎹:</h1>
  
  &nbsp;<div align="left">
-  [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Ayasiraltun)
+  [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3136uswhefbuxjtxy6qghln5njrq?si=33c1a4faa9024f81)
 </div>
 </td>
     <td><h1 align="left">Destek için aşağıdaki butona tıkla 😁😁:</h1>

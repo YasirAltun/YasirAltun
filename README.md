@@ -38,7 +38,7 @@
   [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3136uswhefbuxjtxy6qghln5njrq?si=33c1a4faa9024f81)
 </div>
 </td>
-    <td><h1 align="left">Destek için aşağıdaki butona tıkla 😁😁:</h1>
+    <td><h2 align="center">Clik button  belov for give some coffe money  😁😁:</h2>
 <p><a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cybersurgeon" /></a></p><br><br></td>
   </tr>
 </table>

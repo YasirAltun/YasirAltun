@@ -30,11 +30,18 @@
 </tr>
 </table>
 
-<h1 align="left">Listen With Me🎼🎸🎹:</h1>
+<table>
+  <tr>
+    <td><h1 align="left">Listen With Me🎼🎸🎹:</h1>
  
  &nbsp;<div align="left">
   [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Ayasiraltun)
 </div>
+</td>
+    <td><h1 align="left">Destek için aşağıdaki butona tıkla 😁😁:</h1>
+<p><a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cybersurgeon" /></a></p><br><br></td>
+  </tr>
+</table>
 
 <h1 align="left">😱😱😱 Snake eating my contributions 😱😱😱 </h1>
 <div align="center">
@@ -73,6 +80,5 @@
   <img src="https://github-profile-trophy.vercel.app?username=YasirAltun&theme=dracula&column=9&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cybersurgeon" /></a></p><br><br>
+
 

@@ -42,8 +42,15 @@
 </td>
     <td><h2 align="right">Click on the button below to support 😁😁:</h2>
 <p>
+  <!--
 <a href="https://www.buymeacoffee.com/CyberSurgeon"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffe ?&emoji=☕&slug=CyberSurgeon&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+  *
+  ![1_HsdwLXBm8Yjz1rRCkcaQoQ](https://github.com/YasirAltun/YasirAltun/assets/75855527/7de9a634-e868-45ed-b003-ac35611dc5af)
+  -->
+
+
   
+  <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="![1_HsdwLXBm8Yjz1rRCkcaQoQ](https://github.com/YasirAltun/YasirAltun/assets/75855527/7de9a634-e868-45ed-b003-ac35611dc5af)" height="50" width="210" alt="cybersurgeon" /></a>
 </p><br><br></td>
   </tr>
 </table>

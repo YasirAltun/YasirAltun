@@ -50,7 +50,7 @@
 
 
   
-  <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgur.com/a/3Whg4WO" height="50" width="210" alt="cybersurgeon" /></a>
+  <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgur.com/a/3Whg4WO"  alt="cybersurgeon" /></a>
 </p><br><br></td>
   </tr>
 </table>

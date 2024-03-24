@@ -41,7 +41,10 @@
 </div>
 </td>
     <td><h2 align="right">Click button  belov for give some coffe money  😁😁:</h2>
-<p><a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="******" height="50" width="210" alt="cybersurgeon" /></a></p><br><br></td>
+<p>
+<a href="https://www.buymeacoffee.com/CyberSurgeon"><img src="https://img.buymeacoffee.com/button-api/?text=Bir kahe almak ister misin?&emoji=☕&slug=CyberSurgeon&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+  
+</p><br><br></td>
   </tr>
 </table>
 

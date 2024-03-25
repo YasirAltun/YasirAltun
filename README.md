@@ -34,8 +34,8 @@
 </div>
 </td>
     <td width= "50%"><h2 align="right">Click on the button below to support 😁😁:</h2>
-    <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/bc059c7a497938074d7a618ed1d68354.png"  height="auto" width="45%"  alt="cybersurgeon" /></a><br>
-    <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/3c8cbe3200835c2be145a8bd6697e609.png"  height="auto" width="45%"  alt="cybersurgeon" /></a><br>
+    <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/bc059c7a497938074d7a618ed1d68354.png"  height="auto" width="30%"  alt="cybersurgeon" /></a><br>
+    <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/3c8cbe3200835c2be145a8bd6697e609.png"  height="auto" width="30%"  alt="cybersurgeon" /></a><br>
   
   </tr>
 </table>

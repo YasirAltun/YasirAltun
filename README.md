@@ -27,15 +27,15 @@
 
 <table>
   <tr>
-    <td><h1 align="left">Listen With Me🎼🎸🎹:</h1>
+    <td width="50%"><h1 align="left">Listen With Me🎼🎸🎹:</h1>
  
  &nbsp;<div align="left">
   [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3136uswhefbuxjtxy6qghln5njrq?si=33c1a4faa9024f81)
 </div>
 </td>
-    <td><h2 align="right">Click on the button below to support 😁😁:</h2>
-    <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/bc059c7a497938074d7a618ed1d68354.png"  height="150" width="150"  alt="cybersurgeon" /></a><br>
-    <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/3c8cbe3200835c2be145a8bd6697e609.png"  height="150" width="150"  alt="cybersurgeon" /></a><br>
+    <td width= "50%"><h2 align="right">Click on the button below to support 😁😁:</h2>
+    <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/bc059c7a497938074d7a618ed1d68354.png"  height="auto" width="45%"  alt="cybersurgeon" /></a><br>
+    <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/3c8cbe3200835c2be145a8bd6697e609.png"  height="auto" width="45%"  alt="cybersurgeon" /></a><br>
   
   </tr>
 </table>
@@ -82,7 +82,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YasirAltun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="145" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YasirAltun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true&order=2" height="144" alt="languages graph"  />  
   <img src="https://streak-stats.demolab.com?user=YasirAltun&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=18&date_format=j/n%5B/Y%5D&order=3" height="145" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=YasirAltun&theme=dracula&column=9&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+ <!-- <img src="https://github-profile-trophy.vercel.app?username=YasirAltun&theme=dracula&column=9&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  
 </div>
 
 

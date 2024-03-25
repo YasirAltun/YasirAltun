@@ -1,4 +1,8 @@
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=56&duration=2000&pause=100&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&random=false&width=1000&height=300&lines=*****************************;****+Abdurrahman+Yasir+ALTUN++****;**Junior+Software+Engineer+**;*****************************" alt="Typing SVG" /></a>
+
+<!--[![Animated hello](hello-animated-color-scheme.svg)](https://github.com/nikolalsvk/custom-readme-styles/blame/main/hello-animated-color-scheme.svg)-->
+
 <!--***********************************************-->
 
 <h1 align="center">Hi 👋, I'm Abdurrahman Yasir Altun</h1>
@@ -10,7 +14,13 @@
 <td><table>
   
 <div align="right">
-  <a> <img height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d5N3c2Zm5hYjJhaDh5N2d4Z29tdjc0bTFkZXFoeHAzMWM0bmFnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IlYGtI4lNfOhKteiGC/giphy.gif"  /></a>
+  
+ <!-- [![Animated hello](hello-animated-color-scheme.svg)](https://github.com/nikolalsvk/custom-readme-styles/blame/main/hello-animated-color-scheme.svg) -->
+
+ 
+  <a> <img height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d5N3c2Zm5hYjJhaDh5N2d4Z29tdjc0bTFkZXFoeHAzMWM0bmFnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IlYGtI4lNfOhKteiGC/giphy.gif"  /></a> 
+
+
 </div>
 
 </table></td>

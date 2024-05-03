@@ -1,6 +1,6 @@
-
+<!--
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=56&duration=2000&pause=100&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&random=false&width=1000&height=300&lines=*****************************;****+Abdurrahman+Yasir+ALTUN++****;**Junior+Software+Engineer+**;*****************************" alt="Typing SVG" /></a>
-
+-->
 <!--[![Animated hello](hello-animated-color-scheme.svg)](https://github.com/nikolalsvk/custom-readme-styles/blame/main/hello-animated-color-scheme.svg)-->
 
 <!--***********************************************-->
@@ -8,40 +8,64 @@
 <h1 align="left">About Me:</h1>
 <h3 align="left">I am a student at Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
 
-<table>
-<tr>
+<h1 align="left"> My Resume:</h1>
 
-<td><table>
-  
-<div align="right">
-  
- <!-- [![Animated hello](hello-animated-color-scheme.svg)](https://github.com/nikolalsvk/custom-readme-styles/blame/main/hello-animated-color-scheme.svg) -->
+<div align="center">
+  <a  href="https://drive.google.com/file/d/1_I81fLbZ4fW7zsmTx5KZTzBPMIAv-N55/view?usp=sharing" > <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZneXVxYm9wbGNocmFvdnpsZHFydmVoZWVrejJrdWJ3ZnlsNHZldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w1OtkLv9bN0sT7xYVb/source.gif"  /></a>
+</div>
+<h1 align="left">Listen With Me:</h1>
 
- 
-  <a> <img height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d5N3c2Zm5hYjJhaDh5N2d4Z29tdjc0bTFkZXFoeHAzMWM0bmFnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IlYGtI4lNfOhKteiGC/giphy.gif"  /></a> 
-
-
+ &nbsp;<div align="center">
+  [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3136uswhefbuxjtxy6qghln5njrq?si=33c1a4faa9024f81)
 </div>
 
-</table></td>
 
+<h1 align="left">Click on the button below to support:</h2>
+    <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/bc059c7a497938074d7a618ed1d68354.png"  height="auto" width="30%"  alt="cybersurgeon" /></a><br>
+    <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="right" src="https://imgtr.ee/images/2024/03/24/3c8cbe3200835c2be145a8bd6697e609.png"  height="auto" width="30%"  alt="cybersurgeon" /></a><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+
+
+
+
+
+<h1 align="left">😱😱😱 Snake eating my contributions 😱😱😱 </h1>
+<div align="center">
+ <img alt="snake" src="https://raw.githubusercontent.com/YasirAltun/YasirAltun/output/github-contribution-grid-snake-dark.svg" />  
+</div>
+
+    
+<!--
+<table>
+<tr>
+<td><table>  
+<div align="right"> 
+ <!--[![Animated hello](hello-animated-color-scheme.svg)](https://github.com/nikolalsvk/custom-readme-styles/blame/main/hello-animated-color-scheme.svg) 
+  <a> <img height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d5N3c2Zm5hYjJhaDh5N2d4Z29tdjc0bTFkZXFoeHAzMWM0bmFnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IlYGtI4lNfOhKteiGC/giphy.gif"  /></a> 
+</div>
+</table></td>
 <td><table>
   <h1 align="left"> My Resume:</h1>
-
 <div align="right">
   <a  href="https://drive.google.com/file/d/1_I81fLbZ4fW7zsmTx5KZTzBPMIAv-N55/view?usp=sharing" > <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZneXVxYm9wbGNocmFvdnpsZHFydmVoZWVrejJrdWJ3ZnlsNHZldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w1OtkLv9bN0sT7xYVb/source.gif"  /></a>
 </div>
-
 </table></td>
-
 </tr>
 </table>
-
-
 <table>
   <tr>
-    <td width="50%"><h1 align="left">Listen With Me🎼🎸🎹:</h1>
- 
+    <td width="50%"><h1 align="left">Listen With Me🎼🎸🎹:</h1> 
  &nbsp;<div align="left">
   [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3136uswhefbuxjtxy6qghln5njrq?si=33c1a4faa9024f81)
 </div>
@@ -49,7 +73,6 @@
     <td width= "50%"><h2 align="center">Click on the button below to support:</h2>
     <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/bc059c7a497938074d7a618ed1d68354.png"  height="auto" width="30%"  alt="cybersurgeon" /></a><br>
     <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/3c8cbe3200835c2be145a8bd6697e609.png"  height="auto" width="30%"  alt="cybersurgeon" /></a><br>
-  
   </tr>
 </table>
 
@@ -61,11 +84,11 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
   </picture>
-  -->
  
  <img alt="snake" src="https://raw.githubusercontent.com/YasirAltun/YasirAltun/output/github-contribution-grid-snake-dark.svg" />  
 </div>
 
+-->
 <!--
 <table>
 <tr>
@@ -184,8 +207,8 @@
 </tr>
 </table>
 -->
-<h3 align="left">Connect with me:</h3>
-<p align="right">
+<h1 align="left">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/cybersurgeon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cybersurgeon" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20094392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20094392" height="30" width="40" /></a>
 <a href="https://kaggle.com/ayasiraltun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayasiraltun" height="30" width="40" /></a>

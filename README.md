@@ -19,22 +19,12 @@
   [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3136uswhefbuxjtxy6qghln5njrq?si=33c1a4faa9024f81)
 </div>
 
-
+<!--
 <h1 align="left">Click on the button below to support:</h2>
     <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="left" src="https://imgtr.ee/images/2024/03/24/bc059c7a497938074d7a618ed1d68354.png"  height="auto" width="30%"  alt="cybersurgeon" /></a><br>
     <a href="https://www.buymeacoffee.com/cybersurgeon"> <img align="right" src="https://imgtr.ee/images/2024/03/24/3c8cbe3200835c2be145a8bd6697e609.png"  height="auto" width="30%"  alt="cybersurgeon" /></a><br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
 
-
+-->
 
 
 

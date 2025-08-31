@@ -5,9 +5,6 @@
 
 <!--***********************************************-->
 
-<h1 align="left">About Me:</h1>
-<h3 align="left">I am Graduated From Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
-
 <!--  <h1 align="left"> My Resume:</h1>
 
 <div align="center">
@@ -28,6 +25,9 @@
 
 -->
 
+
+<h1 align="left">About Me:</h1>
+<h3 align="left">I am Graduated From Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
 
 
 

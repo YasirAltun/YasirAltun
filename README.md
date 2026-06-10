@@ -27,8 +27,7 @@
 
 <h1 align="left">About Me:</h1>
 <h3 align="left">I am Graduated From Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
-<h3 align="left"><img width="2736" height="399" alt="Telcorex Güncel İmza A Yasir_3344688812924758314 jpg" src="https://github.com/user-attachments/assets/087be242-907d-4485-9162-09a14685a7d3" />
- </h3>
+
 
 
 

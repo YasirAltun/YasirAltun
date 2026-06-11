@@ -27,16 +27,19 @@
 
 <h1 align="left">About Me:</h1>
 <h3 align="left">I am Graduated From Fırat University, Faculty of Technology, Department of Software Engineering.</h3>
+<img width="2048" height="298" alt="Adsız tasarım (1)" src="https://github.com/user-attachments/assets/8055d52b-f5dc-4bc7-88b2-00a32a288c15" />
 
 
 
 
+
+<!--
 <h1 align="left">😱😱😱 Snake eating my contributions 😱😱😱 </h1>
 <div align="center">
  <img alt="snake" src="https://raw.githubusercontent.com/YasirAltun/YasirAltun/output/github-contribution-grid-snake-dark.svg" />  
 </div>
-
-    
+-->
+  
 <!--
 <table>
 <tr>

@@ -14,7 +14,7 @@
 -->
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3136uswhefbuxjtxy6qghln5njrq?si=33c1a4faa9024f81)
+  [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/orchestrator?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3136uswhefbuxjtxy6qghln5njrq?si=33c1a4faa9024f81)
 </div>
 
 <!--
@@ -61,7 +61,7 @@
   <tr>
     <td width="50%"><h1 align="left">Listen With Me🎼🎸🎹:</h1> 
  &nbsp;<div align="left">
-  [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3136uswhefbuxjtxy6qghln5njrq?si=33c1a4faa9024f81)
+  [![Spotify](https://novatorem-yasir-altuns-projects.vercel.app/api/orchestrator?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3136uswhefbuxjtxy6qghln5njrq?si=33c1a4faa9024f81)
 </div>
 </td>
     <td width= "50%"><h2 align="center">Click on the button below to support:</h2>
